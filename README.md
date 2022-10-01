@@ -16,7 +16,7 @@ A game which was written with assembly language.
   * When the jump failed three times, the game will over.
 * Play again or exit
   * Press "Up" to try again.
-  * Press "Down to exit".
+  * Press "Down" to exit.
   
 ## Operating Method
 <ol>
