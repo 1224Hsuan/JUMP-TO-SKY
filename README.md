@@ -22,6 +22,6 @@ A game which was written with assembly language.
 <ol>
 <li> Run JUMP_TO_SKY.exe.</li>
 <li> Set the window size to 10x20 or 10x18.</li>
-<li> Set the word to "點陣字型".</li>
+<li> Set the font to "點陣字型".</li>
 <li> Enjoy the game!</li>
 </ol>
